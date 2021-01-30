@@ -1,4 +1,4 @@
-def subtracao(x, y):
+def divisao(x, y):
     return x / y
 
-print(subtracao(40, 10))
+print(divisao(40, 10))
